@@ -15,4 +15,6 @@ There are 3 mail directories,
 3. Network analisis (named network)
 The excell table in the main root directory includes links to all datasets used in the work.
 
-4. images - images produced during the project, not all images are included in the article. 
+4. images - images produced during the project, not all images are included in the article.
+
+5. All data sources and their links are found in the file named "DataSources.xlsx" in column "J".
