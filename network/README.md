@@ -1,4 +1,8 @@
 Network analysis
 ++++++++++++++++
-This directory creates a bipartite network where tweets are connected to words appearing in each tweet (see image in article Fig 1). 
+
+This directory creates a bipartite network where tweets are connected to words that are appearing in each tweet.
+The structure can be seen in the article in Fig 1. 
+Then, different network structures are computed for each network.
+
 
