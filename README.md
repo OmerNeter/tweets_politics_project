@@ -18,3 +18,5 @@ The excell table in the main root directory includes links to all datasets used 
 4. images - images produced during the project, not all images are included in the article.
 
 5. All data sources and their links are found in the file named "DataSources.xlsx" in column "J".
+   The data sets were first downloaded manually to a local machine, then processed by the ipython code give in each directory.
+   
