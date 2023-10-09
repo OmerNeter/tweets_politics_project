@@ -19,4 +19,7 @@ The excell table in the main root directory includes links to all datasets used 
 
 5. All data sources and their links are found in the file named "DataSources.xlsx" in column "J".
    The data sets were first downloaded manually to a local machine, then processed by the ipython code give in each directory.
+
+*** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript.
+
    
