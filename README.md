@@ -25,6 +25,9 @@ The data from which we constructed the networks was downloaded from 2 different 
    The data sets were first downloaded manually to a local machine, then processed by the ipython code give in each directory.
    
 7. File named "Fig4 A-D.xlsx" includes the data points to produce image 4, which show the separatation of the two types of cascades (political vs. disasters). In this excell file, one tab includes the Users analysis (sub figures A,B) and the second tab the Hashtags analysis, (sub-figures C, D).
-8. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project. 
+   
+9. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project.
+
+10. The code was produce by Omer Neter while Alon Sela suggested some of the directions and methods. 
 
    
