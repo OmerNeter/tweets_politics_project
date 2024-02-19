@@ -2,7 +2,7 @@
 This repository includes all code and links to data sets used in the study "“Signals of Propaganda” - Detecting and Estimating Political
 Influences in Information Cascades in Social Networks".
 
-There are 3 main directories, 
+There are 3 main directories, where the code is locaded as an ipython code in each directory. 
 1. Hashtag analysis. (named hashtags). 
   1.1 distribution of counts of hashtags
   1.2 slopes on log-log scale
