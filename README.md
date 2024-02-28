@@ -2,7 +2,7 @@
 This repository includes all code and links to data sets used in the study "“Signals of Propaganda” - Detecting and Estimating Political
 Influences in Information Cascades in Social Networks".
 
-There are 3 main directories, 
+There are 3 main directories, where the code is locaded as an ipython code in each directory. 
 1. Hashtag analysis. (named hashtags). 
   1.1 distribution of counts of hashtags
   1.2 slopes on log-log scale
@@ -23,7 +23,11 @@ The data from which we constructed the networks was downloaded from 2 different 
 
 5. All data sources and their links are found in the file named "DataSources.xlsx" in column "J".
    The data sets were first downloaded manually to a local machine, then processed by the ipython code give in each directory.
+   
+7. File named "Fig4 A-D.xlsx" includes the data points to produce image 4, which show the separatation of the two types of cascades (political vs. disasters). In this excell file, one tab includes the Users analysis (sub figures A,B) and the second tab the Hashtags analysis, (sub-figures C, D).
+   
+9. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project.
 
-*** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript.
+10. The code was produce by Omer Neter while Alon Sela suggested some of the directions and methods. 
 
    
