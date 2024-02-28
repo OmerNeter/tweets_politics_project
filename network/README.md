@@ -1,4 +1,4 @@
-**Network analysis**
+**Network Analysis**
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 This directory presents the network analisis as a bipartite network.
 In this analysis, tweets were connected to words that are appear in each tweet to construct a network.
