@@ -1,6 +1,6 @@
 # Tweets_Politics_Project
-This repository includes all code and links to data sets used in the study "“Signals of Propaganda” - Detecting and Estimating Political
-Influences in Information Cascades in Social Networks".
+This repository includes all code and links to data sets used in the study "“Signals of Propaganda” - Detecting and Estimating Political Influences in Information Cascades in Social Networks".
+The article presents a method to distinguish between political (biased) and non-political (disasters) information cascades on Twitter (now X).  
 
 There are 3 main directories, where the code is locaded as an ipython code in each directory with code and one directory with images. Also olded versions of the project are found in "_old-files" and .ipynb_checkpoints". 
 1. **Hashtag analysis. (named hashtags).**
