@@ -16,18 +16,20 @@ There are 3 main directories, where the code is locaded as an ipython code in ea
 3. **Network analysis (named network)**
 The excel table named Network_datasets in the main root directory includes links to all datasets used in the work.
 The data from which we constructed the networks was downloaded from 2 different sources.
-   3.1 csv files (Kaggle, see link in code)
-   3.2 jsonl files (Zubiaga, A. (2018). A longitudinal assessment of the persistence of twitter datasets. Journal of the Association for Information Science and Technology, 69(8), 974-984.)
+   3.1 csv files see (Kaggle, see link in code)
+   3.2 jsonl files see (Zubiaga, A. (2018). A longitudinal assessment of the persistence of twitter datasets. Journal of the Association for Information Science and Technology, 69(8), 974-984.)
 
 4. **images** - images produced during the project, not all images are included in the article.
 
 5. All data sources and their links are found in the file named "DataSources.xlsx" in column "J".
    The data sets were first downloaded manually to a local machine, then processed by the ipython code give in each directory.
+   Due to data size, we cannot upload all datasets to the git.
+   We uploaded datasets when it was posibe, and in each case (hashtags, users, networks) we added at least one dataset so that it can be run with the code and also added the links to the additional datasets. 
    
-7. File named "Fig4 A-D.xlsx" includes the data points to produce image 4, which show the separatation of the two types of cascades (political vs. disasters). In this excell file, one tab includes the Users analysis (sub figures A,B) and the second tab the Hashtags analysis, (sub-figures C, D).
+6. File named "Fig4 A-D.xlsx" includes the data points to produce image 4, which show the separatation values of the two types of cascades (political vs. disasters). In this excell file, one tab includes the Users analysis (sub figures A,B) and the second tab the Hashtags analysis, (sub-figures C, D).
    
-9. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project.
+7. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project.
 
-10. The code was produce by Omer Neter while Alon Sela suggested some of the directions and methods. 
+8. The code was produce by Omer Neter while Alon Sela suggested the directions and methods as well as supervised. 
 
    
