@@ -30,6 +30,9 @@ The data from which we constructed the networks was downloaded from 2 different 
    
 7. *** the .ipynb_checkpoints folders are old code, which were not deleted, but generally include code and images that were not the last version used in the manuscript. Also the "old-files" include backup and older versions of the project.
 
-8. The code was produce by Omer Neter while Alon Sela suggested the directions and methods as well as supervised. 
+8. The code was produce by Omer Neter while Alon Sela suggested the directions and methods as well as supervised.
+
+Zendoo DOI
+10.5281/zenodo.10805274
 
    
