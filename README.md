@@ -32,6 +32,5 @@ The data from which we constructed the networks was downloaded from 2 different 
 
 8. The code was produce by Omer Neter while Alon Sela suggested the directions and methods as well as supervised.
 
-Zenodo DOI
 [![DOI](https://zenodo.org/badge/386157510.svg)](https://zenodo.org/doi/10.5281/zenodo.10805273)
    
